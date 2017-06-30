@@ -1,0 +1,133 @@
+#content_index {
+    width: 1024px;
+    margin: 0 auto;
+    height: 500px;
+    border-radius: 10px;
+    margin-top: 5px;
+    height: 1650px;
+}
+
+#content_top {
+    width: 100%;
+}
+
+#content_top_left {
+    width: 288px;
+    height: 488px;
+    background-color: #DFE4E8;
+    border-radius: 10px;
+    border: 1px solid blanchedalmond;
+    padding: 10px;
+    float: left;
+}
+
+#content_top_left ul {
+    list-style: none;
+    padding: 0px;
+    width: 100%;
+    display: block;
+    margin: 0px;
+}
+
+#content_top_left ul li {
+    float: left;
+    width: 27%;
+    margin-left: 5%;
+    height: 35px;
+    color: #858585;
+}
+
+#content_top_left ul li:hover {
+    color: brown;
+    cursor: pointer;
+}
+
+.small_title {
+    float: left;
+    width: 100%;
+    text-align: left;
+}
+
+#content_top_right {
+    width: 680px;
+    background-color: #DFE4E8;
+    height: 510px;
+    float: right;
+    border-radius: 10px;
+    border: 1px solid blanchedalmond;
+    background-image: url(../img/jardiniere1.jpg);
+}
+
+#choice_button_div {
+    height: 60px;
+    margin-top: 50px;
+}
+
+.choice_button {
+    color: brown;
+    border: none;
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+#content_sub_title {
+    text-align: left;
+    font-family: "新宋体";
+    font-size: 18px;
+}
+
+#choice {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+#choice_div {
+    margin: 0 auto;
+}
+
+#choice ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    height: auto;
+}
+
+#choice ul li {
+    float: left;
+    width: 245px;
+    margin-left: 10px;
+}
+
+.choice_div_price {
+    color: grey;
+    margin-left: 60px;
+}
+
+.choice_div_count {
+    color: grey;
+}
+
+.choice_div_name {
+    color: gray;
+}
+
+.choice_div_img {
+    border: 1px solid #808080;
+    border-radius: 10px;
+}
+
+#choice_form_div {
+    height: 150px;
+    width: 100%;
+}
+
+#choice_form_form {
+    height: 100px;
+    display: inline-block;
+    margin-top: 50px;
+}
+
+#auto_chois {
+    display: none;
+}

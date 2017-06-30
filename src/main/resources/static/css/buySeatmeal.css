@@ -1,0 +1,54 @@
+@charset "utf-8";
+
+#buySeatmeal_content {
+	width: 924px;
+	height: 500px;
+	background-color: #DFE4E8;
+	margin: 0 auto;
+	border-radius: 20px;
+	padding: 50px;
+}
+
+.buySeatmeal_content_img {
+	border-radius: 10px;
+	border: 3px solid black;
+	float: left;
+}
+
+#buySeatmeal_content_show {
+	margin-top: 10px;
+	width: 500px;
+	height: 500px;
+	margin: 0 auto;
+}
+
+#buySeatmeal_showinfo {
+	text-align: left;
+	width: 200px;
+	float: right;
+	font-size: 18px;
+	background-color: white;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+#buySeatmeal_content_select {
+	width: 80px;
+	height: 30px;
+}
+
+#buySeatmeal_content_select option {
+	text-align: center;
+}
+
+#buySeatmeal_content_submit{
+	width: 165px;
+	height: 45px;
+	margin-top: 30px;
+	background-color: #FFEBCD;
+	border: none;
+	border-radius: 10px;
+	color: darkblue;
+	font-size: 22px;
+	font-family: "新宋体";
+}

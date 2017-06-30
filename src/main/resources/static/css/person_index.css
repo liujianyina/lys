@@ -1,0 +1,132 @@
+#personal_index_content {
+	width: 1024px;
+	margin: 0 auto;
+	height: 500px;
+	margin-top: 5px;
+}
+
+#personal_index_content_nav {
+	width: 188px;
+	height: 458px;
+	background-color: #DFE4E8;
+	border-radius: 10px;
+	border: 1px solid blanchedalmond;
+	padding: 10px;
+	float: left;
+}
+
+#personal_index_content_nav ul {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+#personal_index_content_nav ul li {
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	border: 1px solid #D2691E;
+	border-radius: 10px;
+	cursor: pointer;
+	margin-top: 20px;
+}
+
+#personal_index_content_nav ul li:hover {
+	width: 100%;
+	height: 60px;
+	line-height: 60px;
+	background-color: aquamarine;
+}
+
+#personal_index_content_nav ul li a {
+	color: blueviolet;
+}
+
+#personal_index_content_right {
+	width: 778px;
+	height: 458px;
+	background-color: #DFE4E8;
+	border-radius: 10px;
+	border: 1px solid blanchedalmond;
+	padding: 10px;
+	float: right;
+}
+
+#personal_index_content_right_title {
+	color: darkblue;
+	font-size: 22px;
+}
+
+.marquee_img {
+	width: 340px;
+	height: 205px;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+.marquee_img:hover {
+	width: 355px;
+	height: 225px;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+#personal_index_content_right_title_div {
+	height: 100px;
+	width: 100%;
+	line-height: 100px;
+}
+
+#marquee_title {
+	height: 80px;
+	line-height: 80px;
+	font-size: 26px;
+}
+
+marquee {
+	border-radius: 10px;
+}
+
+#personal_index_content_right_content_div {
+	margin-top: 50px;
+	font-size: 18px;
+}
+
+.show_info_input {
+	width: 200px;
+	height: 25px;
+	padding: 8px;
+	font-size: 18px;
+	border: none;
+	border-radius: 15px;
+}
+
+.show_info_submit {
+	height: 50px;
+	width: 180px;
+	border: none;
+	border-radius: 15px;
+	background-color: aqua;
+	color: darkblue;
+	font-size: 18px;
+}
+
+#show_info_table{
+	width: 100%;
+	border: 1px solid rosybrown;
+	border-collapse: collapse;
+	font-size: 16px;
+	margin-top: 10px;
+}
+
+#show_info_table a{
+	font-size: 16px;
+	color: blue;
+}
+
+#show_info_table tr td{
+	height: 30px;
+	border: 1px solid rosybrown;
+	width: 25%;
+}

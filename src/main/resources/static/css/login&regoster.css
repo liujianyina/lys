@@ -1,0 +1,74 @@
+#login_register_content {
+	width: 1024px;
+	margin: 0 auto;
+	background-color: #D2691E;
+	height: 500px;
+	background-image: url(../img/bg1.jpg);
+	border-radius: 10px;
+	margin-top: 5px;
+}
+
+#login_body {
+	position: absolute;
+	top: 110px;
+	left: 60%;
+	width: 350px;
+	height: 450px;
+	background-color: black;
+	border-radius: 10px;
+	/*opacity: 0.2;*/
+	color: black;
+	background: rgba(131, 139, 131, 0.8);
+}
+
+#login_title {
+	color: white;
+	font-family: "新宋体";
+	font-size: 22px;
+}
+
+.hint {
+	color: white;
+	font-family: "新宋体";
+	font-size: 18px;
+}
+
+.login_input {
+	width: 240px;
+	height: 37px;
+	line-height: 37px;
+	border: 1px solid #858585;
+	background: #eef3f8;
+	color: black;
+	font-size: 14px;
+	text-indent: 12px;
+	box-shadow: 1px 1px 1px #dfe4e8 inset;
+	-moz-box-shadow: 1px 1px 1px #dfe4e8 inset;
+	-webkit-box-shadow: 1px 1px 1px #dfe4e8 inset;
+	-o-box-shadow: 1px 1px 1px #dfe4e8 inset;
+	-mis-box-shadow: 1px 1px 1px #dfe4e8 inset;
+}
+
+.login_component {
+	margin-top: 10px;
+}
+
+#login_button {
+	width: 242px;
+	height: 38px;
+	background: url(../img/login-btn.png) no-repeat;
+	border: none;
+	margin-top: 35px;
+}
+
+#register_button {
+	width: 242px;
+	height: 38px;
+	background: url(../img/register.png) no-repeat;
+	border: none;
+	margin-top: 35px;
+}
+
+#error_messsage {
+	color: red;
+}
